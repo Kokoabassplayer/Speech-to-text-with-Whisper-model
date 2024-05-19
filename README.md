@@ -21,7 +21,7 @@ Feel free to use and modify the code to suit your needs. Let's make AI accessibl
 
 ---
 
-# เปลี่ยนเสียงเป็นข้อความง่ายๆ ด้วย Whisper: คู่มือการถอดเสียงและแปลภาษา
+# เปลี่ยนเสียงเป็นข้อความง่ายๆ ด้วย Whisper: คู่มือการถอดเสียงให้เป็นงเป็นข้อความ
 
 ## แรงบันดาลใจ
 
